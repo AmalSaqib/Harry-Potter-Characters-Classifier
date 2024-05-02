@@ -21,7 +21,7 @@ I want to cover at least the most important characters. Harry Potter has a lot o
 11) Fleur Delacour
 12) Molly Weasley
 13) Arthur Weasley
-    I am sorry, I dont have enough data on Charlie Weasley. 
+I am sorry, I dont have enough data on Charlie Weasley. 
 14) Lily Potter
 15) James Potter
 16) Sirius Black
