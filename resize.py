@@ -14,13 +14,15 @@ def resize_images(input_dir, output_dir):
     # Loop through each image file in the input directory
     for filename in os.listdir(input_dir):
         if filename.endswith('.png'):
-            prefix = filename.split(' ')[0]
+            prefix = filename.split('.')[0].split(' ')[0]
         
             folder = find_folder(output_dir, prefix)
             
             new_directory = output_dir + "/" + folder          
             
-            no_of_images = len(os.listdir(new_directory))
+            files = os.listdir(new_directory)
+            
+            no_of_png_files = len([filename for filename in files if filename.endswith('.png')])
             
             # Open the image file
             with Image.open(os.path.join(input_dir, filename)) as img:
@@ -36,7 +38,7 @@ def resize_images(input_dir, output_dir):
                 img_resized = img.resize((new_width, new_height))
                 
                 # Save the resized image to the output directory
-                img_resized.save(os.path.join(new_directory, str(no_of_images) + '.png'))
+                img_resized.save(os.path.join(new_directory, str(no_of_png_files + 1) + '.png'))
                 
                 os.remove(os.path.join(input_dir, filename))
                 
