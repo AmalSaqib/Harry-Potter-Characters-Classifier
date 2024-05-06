@@ -12,42 +12,26 @@ I want to cover at least the most important characters. Harry Potter has a lot o
 2) Hermione Granger
 3) Ron Weasley
 4) Voldemort
-5) Tom Riddle (my model will become confused if I try to train it the beautiful Tom Riddle and Voldemort as the same person)
-6) Ginny Weasley
-7) Fred Weasley
-8) George Weasley
-9) Bill Weasley
-10) Percy Weasley
-11) Fleur Delacour
-12) Molly Weasley
-13) Arthur Weasley
-
-I am sorry, I dont have enough data on Charlie Weasley. 
-
-14) Lily Potter
-15) James Potter
-16) Sirius Black
-17) Albus Dumbledore
-18) Severus Snape
-19) Minerva McGonagall
-20) Rubeus Hagrid
-21) Draco Malfoy
-22) Luna Lovegood
-23) Dobby
-24) Neville Longbottom
-25) Cedric Diggory
-26) Remus Lupin
-27) Nymphadora Tonks
-28) Hedwig
-29) Peter Pettigrew
-30) Dolores Umbridge
-31) Bellatrix Lestrange
-32) Lucius Malfoy
-33) Narcissa Malfoy
-34) Cho Chang
-35) Alastor Moody
-36) Aunt Petunia
-37) Dudley Dursley
-38) Uncle Vernon
-39) Argus Filch
-40) Moaning Myrtle
+5) Ginny Weasley
+6) Fred Weasley
+7) George Weasley
+8) Percy Weasley
+9) Sirius Black
+10) Albus Dumbledore
+11) Severus Snape
+12) Minerva McGonagall
+13) Rubeus Hagrid
+14) Draco Malfoy
+15) Luna Lovegood
+16) Dobby
+17) Neville Longbottom
+18) Cedric Diggory
+19) Remus Lupin
+20) Hedwig
+21) Dolores Umbridge
+22) Bellatrix Lestrange
+23) Lucius Malfoy
+24) Aunt Petunia
+25) Dudley Dursley
+26) Uncle Vernon
+27) Argus Filch
