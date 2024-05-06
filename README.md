@@ -35,3 +35,7 @@ I want to cover at least the most important characters. Harry Potter has a lot o
 25) Dudley Dursley
 26) Uncle Vernon
 27) Argus Filch
+
+
+# resize.py
+I wrote this code to make my life easier. When I am collecting the data, I save all my images in one directory. This code then parses through all the files in this input directory and for every image it finds the respective folder to add the image in. First it resizes the image, it moves it to that character's folder in the train folder, and then it deletes it from the input directory.
