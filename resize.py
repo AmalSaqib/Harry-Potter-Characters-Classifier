@@ -44,5 +44,5 @@ def resize_images(input_dir, output_dir):
                 
 # Example usage
 input_folder = "./dataset/Collection of data"
-output_folder = "./dataset/train"
+output_folder = "./dataset/test"
 resize_images(input_folder, output_folder)

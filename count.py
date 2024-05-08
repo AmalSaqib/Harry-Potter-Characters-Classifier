@@ -1,6 +1,6 @@
 import os
 
-input_folder = "./dataset/train"
+input_folder = "./dataset/test"
 
 
 for item in os.listdir(input_folder):
