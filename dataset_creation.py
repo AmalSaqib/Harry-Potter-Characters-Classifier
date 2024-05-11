@@ -24,11 +24,11 @@ def create_csv(dataset_dir, output_file):
                 csv_writer.writerow([img_path, class_name])
 
 # Example usage
-dataset_directory_train = "train"  # Adjust path to your dataset directory
-dataset_directory_test = "test"  # Adjust path to your dataset directory
+dataset_directory_train = "./dataset/train"  # Adjust path to your dataset directory
+dataset_directory_test = "./dataset/test"  # Adjust path to your dataset directory
 
-output_csv_file_train = "train.csv"  # Output CSV file name
-output_csv_file_test = "test.csv"  # Output CSV file name
+output_csv_file_train = "./dataset/train.csv"  # Output CSV file name
+output_csv_file_test = "./dataset/test.csv"  # Output CSV file name
 
 
 create_csv(dataset_directory_train, output_csv_file_train)
