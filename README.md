@@ -29,5 +29,11 @@ I want to cover at least the most important characters. Harry Potter has a lot o
 
 
 
-# resize.py
-I wrote this code to make my life easier. When I am collecting the data, I save all my images in one directory. This code then parses through all the files in this input directory and for every image it finds the respective folder to add the image in. First it resizes the image, it moves it to that character's folder in the train folder, and then it deletes it from the input directory.
+# data_collection.py
+This piece of code lets me save all the data I collected from the movies to one directory. When you run the code, the images get resized to my desired size and saved in the respective folders of the dataset.
+
+# data_creation.py
+This code is used to generate the csv files that the model will use.
+
+# count.py
+Just to keep track of how many images I have for each class
