@@ -26,23 +26,11 @@ def resize_images(input_dir, output_dir):
             
             # Open the image file
             with Image.open(os.path.join(input_dir, filename)) as img:
-                width, height = img.size
-                if width > height:
-                    new_width = 256
-                    new_height = int((new_width / width) * height)
-                else:
-                    new_height = 256
-                    new_width = int((new_height/height) * width)
-                    
-                # Resize the image
-                img_resized = img.resize((new_width, new_height))
-                
-                # Save the resized image to the output directory
-                img_resized.save(os.path.join(new_directory, str(no_of_png_files + 1) + '.png'))
+                img.save(os.path.join(new_directory, str(no_of_png_files + 1) + '.png'))
                 
                 os.remove(os.path.join(input_dir, filename))
                 
 # Example usage
 input_folder = "./dataset/Collection of data"
-output_folder = "./dataset/test"
+output_folder = "./dataset/train"
 resize_images(input_folder, output_folder)

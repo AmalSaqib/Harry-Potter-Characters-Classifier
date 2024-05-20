@@ -1,7 +1,20 @@
 Image_Path,Label
 ./dataset/train\Albus Dumbledore\1.png,Albus Dumbledore
 ./dataset/train\Albus Dumbledore\10.png,Albus Dumbledore
+./dataset/train\Albus Dumbledore\100.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\101.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\102.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\103.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\104.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\105.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\106.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\107.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\108.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\109.jpg,Albus Dumbledore
 ./dataset/train\Albus Dumbledore\11.png,Albus Dumbledore
+./dataset/train\Albus Dumbledore\110.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\111.jpg,Albus Dumbledore
+./dataset/train\Albus Dumbledore\112.jpg,Albus Dumbledore
 ./dataset/train\Albus Dumbledore\12.png,Albus Dumbledore
 ./dataset/train\Albus Dumbledore\13.png,Albus Dumbledore
 ./dataset/train\Albus Dumbledore\14.png,Albus Dumbledore
@@ -145,7 +158,20 @@ Image_Path,Label
 ./dataset/train\Dobby\5.png,Dobby
 ./dataset/train\Dobby\50.png,Dobby
 ./dataset/train\Dobby\51.png,Dobby
+./dataset/train\Dobby\52.jpg,Dobby
+./dataset/train\Dobby\53.jpg,Dobby
+./dataset/train\Dobby\54.jpg,Dobby
+./dataset/train\Dobby\55.jpg,Dobby
+./dataset/train\Dobby\56.jpg,Dobby
+./dataset/train\Dobby\57.jpg,Dobby
+./dataset/train\Dobby\58.jpg,Dobby
+./dataset/train\Dobby\59.jpg,Dobby
 ./dataset/train\Dobby\6.png,Dobby
+./dataset/train\Dobby\60.jpg,Dobby
+./dataset/train\Dobby\61.jpg,Dobby
+./dataset/train\Dobby\62.jpg,Dobby
+./dataset/train\Dobby\63.jpg,Dobby
+./dataset/train\Dobby\64.jpg,Dobby
 ./dataset/train\Dobby\7.png,Dobby
 ./dataset/train\Dobby\8.png,Dobby
 ./dataset/train\Dobby\9.png,Dobby
@@ -203,14 +229,59 @@ Image_Path,Label
 ./dataset/train\Draco Malfoy\56.png,Draco Malfoy
 ./dataset/train\Draco Malfoy\57.png,Draco Malfoy
 ./dataset/train\Draco Malfoy\58.png,Draco Malfoy
+./dataset/train\Draco Malfoy\59.jpg,Draco Malfoy
 ./dataset/train\Draco Malfoy\6.png,Draco Malfoy
+./dataset/train\Draco Malfoy\60.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\61.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\62.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\63.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\64.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\65.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\66.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\67.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\68.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\69.jpg,Draco Malfoy
 ./dataset/train\Draco Malfoy\7.png,Draco Malfoy
+./dataset/train\Draco Malfoy\70.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\71.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\72.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\73.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\74.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\75.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\76.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\77.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\78.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\79.jpg,Draco Malfoy
 ./dataset/train\Draco Malfoy\8.png,Draco Malfoy
+./dataset/train\Draco Malfoy\80.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\81.jpg,Draco Malfoy
+./dataset/train\Draco Malfoy\82.jpg,Draco Malfoy
 ./dataset/train\Draco Malfoy\9.png,Draco Malfoy
 ./dataset/train\Fred and George Weasley\1.png,Fred and George Weasley
 ./dataset/train\Fred and George Weasley\10.png,Fred and George Weasley
+./dataset/train\Fred and George Weasley\100.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\101.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\102.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\103.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\104.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\105.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\106.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\107.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\108.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\109.jpg,Fred and George Weasley
 ./dataset/train\Fred and George Weasley\11.png,Fred and George Weasley
+./dataset/train\Fred and George Weasley\110.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\111.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\112.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\113.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\114.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\115.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\116.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\117.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\118.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\119.jpg,Fred and George Weasley
 ./dataset/train\Fred and George Weasley\12.png,Fred and George Weasley
+./dataset/train\Fred and George Weasley\120.jpg,Fred and George Weasley
 ./dataset/train\Fred and George Weasley\13.png,Fred and George Weasley
 ./dataset/train\Fred and George Weasley\14.png,Fred and George Weasley
 ./dataset/train\Fred and George Weasley\15.png,Fred and George Weasley
@@ -303,6 +374,9 @@ Image_Path,Label
 ./dataset/train\Fred and George Weasley\94.png,Fred and George Weasley
 ./dataset/train\Fred and George Weasley\95.png,Fred and George Weasley
 ./dataset/train\Fred and George Weasley\96.png,Fred and George Weasley
+./dataset/train\Fred and George Weasley\97.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\98.jpg,Fred and George Weasley
+./dataset/train\Fred and George Weasley\99.jpg,Fred and George Weasley
 ./dataset/train\Ginny Weasley\1.png,Ginny Weasley
 ./dataset/train\Ginny Weasley\10.png,Ginny Weasley
 ./dataset/train\Ginny Weasley\11.png,Ginny Weasley
@@ -377,8 +451,23 @@ Image_Path,Label
 ./dataset/train\Ginny Weasley\74.png,Ginny Weasley
 ./dataset/train\Ginny Weasley\75.png,Ginny Weasley
 ./dataset/train\Ginny Weasley\76.png,Ginny Weasley
+./dataset/train\Ginny Weasley\77.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\78.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\79.jpg,Ginny Weasley
 ./dataset/train\Ginny Weasley\8.png,Ginny Weasley
+./dataset/train\Ginny Weasley\80.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\81.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\82.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\83.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\84.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\85.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\86.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\87.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\88.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\89.jpg,Ginny Weasley
 ./dataset/train\Ginny Weasley\9.png,Ginny Weasley
+./dataset/train\Ginny Weasley\90.jpg,Ginny Weasley
+./dataset/train\Ginny Weasley\91.jpg,Ginny Weasley
 ./dataset/train\Harry Potter\1.png,Harry Potter
 ./dataset/train\Harry Potter\10.png,Harry Potter
 ./dataset/train\Harry Potter\100.png,Harry Potter
@@ -428,7 +517,24 @@ Image_Path,Label
 ./dataset/train\Harry Potter\140.png,Harry Potter
 ./dataset/train\Harry Potter\141.png,Harry Potter
 ./dataset/train\Harry Potter\142.png,Harry Potter
+./dataset/train\Harry Potter\143.jpg,Harry Potter
+./dataset/train\Harry Potter\144.jpg,Harry Potter
+./dataset/train\Harry Potter\145.jpg,Harry Potter
+./dataset/train\Harry Potter\146.jpg,Harry Potter
+./dataset/train\Harry Potter\147.jpg,Harry Potter
+./dataset/train\Harry Potter\148.jpg,Harry Potter
+./dataset/train\Harry Potter\149.jpg,Harry Potter
 ./dataset/train\Harry Potter\15.png,Harry Potter
+./dataset/train\Harry Potter\150.jpg,Harry Potter
+./dataset/train\Harry Potter\151.jpg,Harry Potter
+./dataset/train\Harry Potter\152.jpg,Harry Potter
+./dataset/train\Harry Potter\153.jpg,Harry Potter
+./dataset/train\Harry Potter\154.jpg,Harry Potter
+./dataset/train\Harry Potter\155.jpg,Harry Potter
+./dataset/train\Harry Potter\156.jpg,Harry Potter
+./dataset/train\Harry Potter\157.jpg,Harry Potter
+./dataset/train\Harry Potter\158.jpg,Harry Potter
+./dataset/train\Harry Potter\159.jpg,Harry Potter
 ./dataset/train\Harry Potter\16.png,Harry Potter
 ./dataset/train\Harry Potter\17.png,Harry Potter
 ./dataset/train\Harry Potter\18.png,Harry Potter
@@ -523,6 +629,13 @@ Image_Path,Label
 ./dataset/train\Harry Potter\99.png,Harry Potter
 ./dataset/train\Hermione Granger\1.png,Hermione Granger
 ./dataset/train\Hermione Granger\10.png,Hermione Granger
+./dataset/train\Hermione Granger\100.jpg,Hermione Granger
+./dataset/train\Hermione Granger\101.jpg,Hermione Granger
+./dataset/train\Hermione Granger\102.jpg,Hermione Granger
+./dataset/train\Hermione Granger\103.jpg,Hermione Granger
+./dataset/train\Hermione Granger\104.jpg,Hermione Granger
+./dataset/train\Hermione Granger\105.jpg,Hermione Granger
+./dataset/train\Hermione Granger\106.jpg,Hermione Granger
 ./dataset/train\Hermione Granger\11.png,Hermione Granger
 ./dataset/train\Hermione Granger\12.png,Hermione Granger
 ./dataset/train\Hermione Granger\13.png,Hermione Granger
@@ -600,7 +713,26 @@ Image_Path,Label
 ./dataset/train\Hermione Granger\79.png,Hermione Granger
 ./dataset/train\Hermione Granger\8.png,Hermione Granger
 ./dataset/train\Hermione Granger\80.png,Hermione Granger
+./dataset/train\Hermione Granger\81.jpg,Hermione Granger
+./dataset/train\Hermione Granger\82.jpg,Hermione Granger
+./dataset/train\Hermione Granger\83.jpg,Hermione Granger
+./dataset/train\Hermione Granger\84.jpg,Hermione Granger
+./dataset/train\Hermione Granger\85.jpg,Hermione Granger
+./dataset/train\Hermione Granger\86.jpg,Hermione Granger
+./dataset/train\Hermione Granger\87.jpg,Hermione Granger
+./dataset/train\Hermione Granger\88.jpg,Hermione Granger
+./dataset/train\Hermione Granger\89.jpg,Hermione Granger
 ./dataset/train\Hermione Granger\9.png,Hermione Granger
+./dataset/train\Hermione Granger\90.jpg,Hermione Granger
+./dataset/train\Hermione Granger\91.jpg,Hermione Granger
+./dataset/train\Hermione Granger\92.jpg,Hermione Granger
+./dataset/train\Hermione Granger\93.jpg,Hermione Granger
+./dataset/train\Hermione Granger\94.jpg,Hermione Granger
+./dataset/train\Hermione Granger\95.jpg,Hermione Granger
+./dataset/train\Hermione Granger\96.jpg,Hermione Granger
+./dataset/train\Hermione Granger\97.jpg,Hermione Granger
+./dataset/train\Hermione Granger\98.jpg,Hermione Granger
+./dataset/train\Hermione Granger\99.jpg,Hermione Granger
 ./dataset/train\Luna Lovegood\1.png,Luna Lovegood
 ./dataset/train\Luna Lovegood\10.png,Luna Lovegood
 ./dataset/train\Luna Lovegood\11.png,Luna Lovegood
@@ -647,7 +779,24 @@ Image_Path,Label
 ./dataset/train\Luna Lovegood\49.png,Luna Lovegood
 ./dataset/train\Luna Lovegood\5.png,Luna Lovegood
 ./dataset/train\Luna Lovegood\50.png,Luna Lovegood
+./dataset/train\Luna Lovegood\51.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\52.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\53.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\54.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\55.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\56.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\57.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\58.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\59.jpg,Luna Lovegood
 ./dataset/train\Luna Lovegood\6.png,Luna Lovegood
+./dataset/train\Luna Lovegood\60.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\61.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\62.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\63.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\64.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\65.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\66.jpg,Luna Lovegood
+./dataset/train\Luna Lovegood\67.jpg,Luna Lovegood
 ./dataset/train\Luna Lovegood\7.png,Luna Lovegood
 ./dataset/train\Luna Lovegood\8.png,Luna Lovegood
 ./dataset/train\Luna Lovegood\9.png,Luna Lovegood
@@ -696,7 +845,21 @@ Image_Path,Label
 ./dataset/train\Minerva McGonagall\48.png,Minerva McGonagall
 ./dataset/train\Minerva McGonagall\49.png,Minerva McGonagall
 ./dataset/train\Minerva McGonagall\5.png,Minerva McGonagall
+./dataset/train\Minerva McGonagall\50.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\51.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\52.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\53.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\54.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\55.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\56.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\57.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\58.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\59.jpg,Minerva McGonagall
 ./dataset/train\Minerva McGonagall\6.png,Minerva McGonagall
+./dataset/train\Minerva McGonagall\60.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\61.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\62.jpg,Minerva McGonagall
+./dataset/train\Minerva McGonagall\63.jpg,Minerva McGonagall
 ./dataset/train\Minerva McGonagall\7.png,Minerva McGonagall
 ./dataset/train\Minerva McGonagall\8.png,Minerva McGonagall
 ./dataset/train\Minerva McGonagall\9.png,Minerva McGonagall
@@ -771,7 +934,22 @@ Image_Path,Label
 ./dataset/train\Neville Longbottom\71.png,Neville Longbottom
 ./dataset/train\Neville Longbottom\72.png,Neville Longbottom
 ./dataset/train\Neville Longbottom\73.png,Neville Longbottom
+./dataset/train\Neville Longbottom\74.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\75.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\76.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\77.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\78.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\79.jpg,Neville Longbottom
 ./dataset/train\Neville Longbottom\8.png,Neville Longbottom
+./dataset/train\Neville Longbottom\80.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\81.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\82.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\83.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\84.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\85.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\86.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\87.jpg,Neville Longbottom
+./dataset/train\Neville Longbottom\88.jpg,Neville Longbottom
 ./dataset/train\Neville Longbottom\9.png,Neville Longbottom
 ./dataset/train\Remus Lupin\1.png,Remus Lupin
 ./dataset/train\Remus Lupin\10.png,Remus Lupin
@@ -815,13 +993,29 @@ Image_Path,Label
 ./dataset/train\Remus Lupin\45.png,Remus Lupin
 ./dataset/train\Remus Lupin\46.png,Remus Lupin
 ./dataset/train\Remus Lupin\47.png,Remus Lupin
+./dataset/train\Remus Lupin\48.jpg,Remus Lupin
+./dataset/train\Remus Lupin\49.jpg,Remus Lupin
 ./dataset/train\Remus Lupin\5.png,Remus Lupin
+./dataset/train\Remus Lupin\50.jpg,Remus Lupin
+./dataset/train\Remus Lupin\51.jpg,Remus Lupin
+./dataset/train\Remus Lupin\52.jpg,Remus Lupin
+./dataset/train\Remus Lupin\53.jpg,Remus Lupin
+./dataset/train\Remus Lupin\54.jpg,Remus Lupin
+./dataset/train\Remus Lupin\55.jpg,Remus Lupin
+./dataset/train\Remus Lupin\56.jpg,Remus Lupin
+./dataset/train\Remus Lupin\57.jpg,Remus Lupin
+./dataset/train\Remus Lupin\58.jpg,Remus Lupin
+./dataset/train\Remus Lupin\59.jpg,Remus Lupin
 ./dataset/train\Remus Lupin\6.png,Remus Lupin
 ./dataset/train\Remus Lupin\7.png,Remus Lupin
 ./dataset/train\Remus Lupin\8.png,Remus Lupin
 ./dataset/train\Remus Lupin\9.png,Remus Lupin
 ./dataset/train\Ron Weasley\1.png,Ron Weasley
 ./dataset/train\Ron Weasley\10.png,Ron Weasley
+./dataset/train\Ron Weasley\100.jpg,Ron Weasley
+./dataset/train\Ron Weasley\101.jpg,Ron Weasley
+./dataset/train\Ron Weasley\102.jpg,Ron Weasley
+./dataset/train\Ron Weasley\103.jpg,Ron Weasley
 ./dataset/train\Ron Weasley\11.png,Ron Weasley
 ./dataset/train\Ron Weasley\12.png,Ron Weasley
 ./dataset/train\Ron Weasley\13.png,Ron Weasley
@@ -896,8 +1090,29 @@ Image_Path,Label
 ./dataset/train\Ron Weasley\76.png,Ron Weasley
 ./dataset/train\Ron Weasley\77.png,Ron Weasley
 ./dataset/train\Ron Weasley\78.png,Ron Weasley
+./dataset/train\Ron Weasley\79.jpg,Ron Weasley
 ./dataset/train\Ron Weasley\8.png,Ron Weasley
+./dataset/train\Ron Weasley\80.jpg,Ron Weasley
+./dataset/train\Ron Weasley\81.jpg,Ron Weasley
+./dataset/train\Ron Weasley\82.jpg,Ron Weasley
+./dataset/train\Ron Weasley\83.jpg,Ron Weasley
+./dataset/train\Ron Weasley\84.jpg,Ron Weasley
+./dataset/train\Ron Weasley\85.jpg,Ron Weasley
+./dataset/train\Ron Weasley\86.jpg,Ron Weasley
+./dataset/train\Ron Weasley\87.jpg,Ron Weasley
+./dataset/train\Ron Weasley\88.jpg,Ron Weasley
+./dataset/train\Ron Weasley\89.jpg,Ron Weasley
 ./dataset/train\Ron Weasley\9.png,Ron Weasley
+./dataset/train\Ron Weasley\90.jpg,Ron Weasley
+./dataset/train\Ron Weasley\91.jpg,Ron Weasley
+./dataset/train\Ron Weasley\92.jpg,Ron Weasley
+./dataset/train\Ron Weasley\93.jpg,Ron Weasley
+./dataset/train\Ron Weasley\94.jpg,Ron Weasley
+./dataset/train\Ron Weasley\95.jpg,Ron Weasley
+./dataset/train\Ron Weasley\96.jpg,Ron Weasley
+./dataset/train\Ron Weasley\97.jpg,Ron Weasley
+./dataset/train\Ron Weasley\98.jpg,Ron Weasley
+./dataset/train\Ron Weasley\99.jpg,Ron Weasley
 ./dataset/train\Rubeus Hagrid\1.png,Rubeus Hagrid
 ./dataset/train\Rubeus Hagrid\10.png,Rubeus Hagrid
 ./dataset/train\Rubeus Hagrid\11.png,Rubeus Hagrid
@@ -944,7 +1159,24 @@ Image_Path,Label
 ./dataset/train\Rubeus Hagrid\49.png,Rubeus Hagrid
 ./dataset/train\Rubeus Hagrid\5.png,Rubeus Hagrid
 ./dataset/train\Rubeus Hagrid\50.png,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\51.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\52.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\53.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\54.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\55.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\56.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\57.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\58.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\59.jpg,Rubeus Hagrid
 ./dataset/train\Rubeus Hagrid\6.png,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\60.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\61.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\62.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\63.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\64.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\65.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\66.jpg,Rubeus Hagrid
+./dataset/train\Rubeus Hagrid\67.jpg,Rubeus Hagrid
 ./dataset/train\Rubeus Hagrid\7.png,Rubeus Hagrid
 ./dataset/train\Rubeus Hagrid\8.png,Rubeus Hagrid
 ./dataset/train\Rubeus Hagrid\9.png,Rubeus Hagrid
@@ -994,7 +1226,21 @@ Image_Path,Label
 ./dataset/train\Severus Snape\49.png,Severus Snape
 ./dataset/train\Severus Snape\5.png,Severus Snape
 ./dataset/train\Severus Snape\50.png,Severus Snape
+./dataset/train\Severus Snape\51.jpg,Severus Snape
+./dataset/train\Severus Snape\52.jpg,Severus Snape
+./dataset/train\Severus Snape\53.jpg,Severus Snape
+./dataset/train\Severus Snape\54.jpg,Severus Snape
+./dataset/train\Severus Snape\55.jpg,Severus Snape
+./dataset/train\Severus Snape\56.jpg,Severus Snape
+./dataset/train\Severus Snape\57.jpg,Severus Snape
+./dataset/train\Severus Snape\58.jpg,Severus Snape
+./dataset/train\Severus Snape\59.jpg,Severus Snape
 ./dataset/train\Severus Snape\6.png,Severus Snape
+./dataset/train\Severus Snape\60.jpg,Severus Snape
+./dataset/train\Severus Snape\61.jpg,Severus Snape
+./dataset/train\Severus Snape\62.jpg,Severus Snape
+./dataset/train\Severus Snape\63.jpg,Severus Snape
+./dataset/train\Severus Snape\64.jpg,Severus Snape
 ./dataset/train\Severus Snape\7.png,Severus Snape
 ./dataset/train\Severus Snape\8.png,Severus Snape
 ./dataset/train\Severus Snape\9.png,Severus Snape
@@ -1046,7 +1292,21 @@ Image_Path,Label
 ./dataset/train\Sirius Black\50.png,Sirius Black
 ./dataset/train\Sirius Black\51.png,Sirius Black
 ./dataset/train\Sirius Black\52.png,Sirius Black
+./dataset/train\Sirius Black\53.jpg,Sirius Black
+./dataset/train\Sirius Black\54.jpg,Sirius Black
+./dataset/train\Sirius Black\55.jpg,Sirius Black
+./dataset/train\Sirius Black\56.jpg,Sirius Black
+./dataset/train\Sirius Black\57.jpg,Sirius Black
+./dataset/train\Sirius Black\58.jpg,Sirius Black
+./dataset/train\Sirius Black\59.jpg,Sirius Black
 ./dataset/train\Sirius Black\6.png,Sirius Black
+./dataset/train\Sirius Black\60.jpg,Sirius Black
+./dataset/train\Sirius Black\61.jpg,Sirius Black
+./dataset/train\Sirius Black\62.jpg,Sirius Black
+./dataset/train\Sirius Black\63.jpg,Sirius Black
+./dataset/train\Sirius Black\64.jpg,Sirius Black
+./dataset/train\Sirius Black\65.jpg,Sirius Black
+./dataset/train\Sirius Black\66.jpg,Sirius Black
 ./dataset/train\Sirius Black\7.png,Sirius Black
 ./dataset/train\Sirius Black\8.png,Sirius Black
 ./dataset/train\Sirius Black\9.png,Sirius Black
@@ -1098,7 +1358,23 @@ Image_Path,Label
 ./dataset/train\Voldemort\50.png,Voldemort
 ./dataset/train\Voldemort\51.png,Voldemort
 ./dataset/train\Voldemort\52.png,Voldemort
+./dataset/train\Voldemort\53.jpg,Voldemort
+./dataset/train\Voldemort\54.jpg,Voldemort
+./dataset/train\Voldemort\55.jpg,Voldemort
+./dataset/train\Voldemort\56.jpg,Voldemort
+./dataset/train\Voldemort\57.jpg,Voldemort
+./dataset/train\Voldemort\58.jpg,Voldemort
+./dataset/train\Voldemort\59.jpg,Voldemort
 ./dataset/train\Voldemort\6.png,Voldemort
+./dataset/train\Voldemort\60.jpg,Voldemort
+./dataset/train\Voldemort\61.jpg,Voldemort
+./dataset/train\Voldemort\62.jpg,Voldemort
+./dataset/train\Voldemort\63.jpg,Voldemort
+./dataset/train\Voldemort\64.jpg,Voldemort
+./dataset/train\Voldemort\65.jpg,Voldemort
+./dataset/train\Voldemort\66.jpg,Voldemort
+./dataset/train\Voldemort\67.jpg,Voldemort
+./dataset/train\Voldemort\68.jpg,Voldemort
 ./dataset/train\Voldemort\7.png,Voldemort
 ./dataset/train\Voldemort\8.png,Voldemort
 ./dataset/train\Voldemort\9.png,Voldemort
